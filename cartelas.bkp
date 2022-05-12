@@ -1,0 +1,65 @@
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+
+        <title> JS hands on </title>
+    </head>
+    
+    <body id="cartelas">
+        <header class="page-header">
+            <h1> Bingo </h1>
+            <nav class="navbar">
+                <ul>
+                    <li> <a href="index.html"> início </a> </li>
+                    <li> <a href="cartelas.html"> cartelas </a> 
+                        <!-- <ul class="submenu-1"> 
+                            <li> <a href="#"> criar cartela </a>  </li>
+                            <li> <a href="#"> editar cartela </a>   </li>
+                            <li> <a href="#"> ver cartelas </a>   </li>
+                            <li> <a href="#"> remover cartela </a>  </li>
+                        </ul> -->   
+                    </li>
+                    <li > <a href="batidas.html"> batidas </a> 
+                        <!-- <ul class="submenu-1">  
+                            <li> <a href="#"> definir padrão </a>  </li>
+                            <li> <a href="#"> editar padrão </a>   </li>
+                            <li> <a href="#"> ver objetivos </a>   </li>
+                            <li> <a href="#"> remover padrão </a>  </li>
+                        </ul> -->
+                    </li>
+                    <li> <a href="jogos.html"> jogos </a> 
+                        <!-- <ul class="submenu-1"> 
+                            <li > <a href="#"> iniciar jogo  </a> </li>
+                            <li > <a href="#"> terminar jogo  </a>  </li>
+                        </ul> -->
+                    </li>
+                    <li> <a href="ajuda.html"> ajuda </a>  </li>
+                    <li> <a href="contato.html"> contato </a> </li>
+                </ul>
+            </nav>
+        </header>
+        
+        <div class="page-content"> 
+            <header class="content-header"> <h2>  Minhas Cartelas </h2></header>
+            <section>
+                <!-- <div class="card-board" id="card-board">
+                    <div id="card-board-pos-1" class="card-board-position" > 
+                        <div class="add-symbol" id="add-symbol-pos1"> + </div> 
+                    </div>
+                </div>  -->
+            </section>
+        </div>
+
+        <footer>
+            bingo
+        </footer>
+
+        <script src="bingo.js"></script>
+       
+
+    </body>
+    
+</html>

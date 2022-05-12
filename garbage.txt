@@ -1,0 +1,235 @@
+<div class="card-edit" id="edit-card-1"> 
+    <div class="number-edit-panel" id="number-edit-panel-card-1" > 
+        <div class="number-option" id="number-option-card-1-option-1" > </div>
+        <div class="number-option" id="number-option-card-1-option-2" > </div>
+        <div class="number-option" id="number-option-card-1-option-3" > </div>
+        <div class="number-option" id="number-option-card-1-option-4" > </div>
+        <div class="number-option" id="number-option-card-1-option-5" > </div>
+        <div class="number-option" id="number-option-card-1-option-6" > </div>
+        <div class="number-option" id="number-option-card-1-option-7" > </div>
+        <div class="number-option" id="number-option-card-1-option-8" > </div>
+        <div class="number-option" id="number-option-card-1-option-9" > </div>
+        <div class="number-option" id="number-option-card-1-option-10" > </div>
+        <div class="number-option" id="number-option-card-1-option-11" > </div>
+        <div class="number-option" id="number-option-card-1-option-12" > </div>
+        <div class="number-option" id="number-option-card-1-option-13" > </div>
+        <div class="number-option" id="number-option-card-1-option-14" > </div>
+        <div class="number-option" id="number-option-card-1-option-15" > </div>
+    </div>
+    <div class="grid-edit-numbers" id="grid-edit-numbers-card-1"> 
+        
+        <div class="card-header" id="header-card-1"> b </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-b1"> b1 </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-b2"> b2 </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-b3"> b3 </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-b4"> b4 </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-b5"> b5 </div>
+        <div class="card-header" id="header-card-1"> i </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-i1"> i1 </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-i2"> i2 </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-i3"> i3 </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-i4"> i4 </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-i5"> i5 </div>
+        <div class="card-header" id="header-card-1"> n </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-n1"> n1 </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-n2"> n2 </div>
+        <div class="card-number not-editable-number" id="pos-n3"> X  </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-n4"> n4 </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-n5"> n5 </div>
+        <div class="card-header" id="header-card-1"> g </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-g1"> g1 </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-g2"> g2 </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-g3"> g3 </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-g4"> g4 </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-g5"> g5 </div>
+        <div class="card-header" id="header-card-1"> o </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-o1"> o1 </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-o2"> o2 </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-o3"> o3 </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-o4"> o4 </div>
+        <div class="card-number editable-number" id="number-edit-card-1-pos-o5"> o5 </div>
+    </div> 
+    <div class="card-identifier card-identifier-edit" id="identifier-card-1">
+        <button class="card-edit-btn-save" id="card-edit-btn-save-card-1"> save </button> 
+        id: 123456 
+        <button class="card-edit-btn-remove" id="card-edit-btn-remove-card-1"> remove </button>
+    </div>
+</div>
+
+
+
+
+<div class="number-option" id="number-option-card-1-option-1" > </div><div class="number-option" id="number-option-card-1-option-2" > </div><div class="number-option" id="number-option-card-1-option-3" > </div><div class="number-option" id="number-option-card-1-option-4" > </div><div class="number-option" id="number-option-card-1-option-5" > </div><div class="number-option" id="number-option-card-1-option-6" > </div><div class="number-option" id="number-option-card-1-option-7" > </div><div class="number-option" id="number-option-card-1-option-8" > </div><div class="number-option" id="number-option-card-1-option-9" > </div><div class="number-option" id="number-option-card-1-option-10" > </div><div class="number-option" id="number-option-card-1-option-11" > </div><div class="number-option" id="number-option-card-1-option-12" > </div><div class="number-option" id="number-option-card-1-option-13" > </div><div class="number-option" id="number-option-card-1-option-14" > </div><div class="number-option" id="number-option-card-1-option-15" > </div>
+
+
+
+                            <div class="number-option" id="number-option-card-${currentCard}-option-1"> x </div>
+                            <div class="number-option" id="number-option-card-${currentCard}-option-2"> x </div>
+                            <div class="number-option" id="number-option-card-${currentCard}-option-3"> x </div>
+                            <div class="number-option" id="number-option-card-${currentCard}-option-4"> x </div>
+                            <div class="number-option" id="number-option-card-${currentCard}-option-5"> x </div>
+                            <div class="number-option" id="number-option-card-${currentCard}-option-6"> x </div>
+                            <div class="number-option" id="number-option-card-${currentCard}-option-7"> x </div>
+                            <div class="number-option" id="number-option-card-${currentCard}-option-8"> x </div>
+                            <div class="number-option" id="number-option-card-${currentCard}-option-9"> x </div>
+                            <div class="number-option" id="number-option-card-${currentCard}-option-10> x </div>
+                            <div class="number-option" id="number-option-card-${currentCard}-option-11> x </div>
+                            <div class="number-option" id="number-option-card-${currentCard}-option-12> x </div>
+                            <div class="number-option" id="number-option-card-${currentCard}-option-13> x </div>
+                            <div class="number-option" id="number-option-card-${currentCard}-option-14> x </div>
+                            <div class="number-option" id="number-option-card-${currentCard}-option-15> x </div>
+
+
+
+
+
+        let saveBtnElement =  document.getElementById(`card-edit-btn-save-card-${cardPosition}`);
+        saveBtnElement.classList.remove('blink-btn');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------
+
+
+/* MEDIA QUERIES */
+
+ /* Extra small devices (phones, 600px and down) */
+ @media only screen and (max-width: 600px) {
+
+    .full-board{
+        display: none;
+    }
+    
+    .game-board{
+        grid-template-columns: 1fr;
+        transform: scale(0.9);
+    }
+
+ }
+
+ /* Small devices (portrait tablets and large phones, 600px and up) */
+ @media only screen and (min-width: 600px) {
+    
+    .game-wrapper{
+        flex-direction: column;
+    }
+
+    .full-board{
+        
+    }
+
+    .game-board{
+        grid-template-columns: 1fr;
+        transform: scale(1);
+    }
+
+ }
+ 
+ /* Medium devices (landscape tablets, 768px and up) */
+ @media only screen and (min-width: 768px) {
+
+    .game-wrapper{
+        flex-direction: row;
+        
+
+    }
+    
+    .full-board{
+        display: flex;
+        transform: scale(0.9);
+      
+    }
+
+    .game-board{
+        grid-template-columns: 1fr 1fr;
+        margin: 0vw;
+        row-gap: 0vh;
+     
+       
+    }
+
+    .game-board-position{
+        transform: scale(0.85   );
+    }
+ }
+ 
+ /* Large devices (laptops/desktops, 992px and up) */
+ @media only screen and (min-width: 992px) {
+
+    .full-board{
+        transform: scale(0.95);
+        margin-right: 2vw;
+    }
+
+    .game-board{      
+        flex: 2;
+        grid-template-columns: 1fr 1fr;
+        row-gap: 2vh;
+        column-gap: 2vh;
+    }
+
+    .game-board-position{
+        transform: scale(0.95);
+    }
+
+ }
+ 
+ /* Extra large devices (large laptops and desktops, 1200px and up) */
+ @media only screen and (min-width: 1200px) {
+
+          /* jogos */
+        /*   .game-wrapper{
+            overflow: scroll;
+        } */
+        
+        .full-board{
+            transform: scale(1);
+            
+        }
+        
+        .game-board{
+            flex: 3;
+            grid-template-columns: 1fr 1fr 1fr;    
+          
+        }
+
+        .game-board-position{
+            transform: scale(1);
+        }
+ } 
+
+
+  /* Extra large devices (large laptops and desktops, 1440px and up) */
+  @media only screen and (min-width: 1440px) {
+  
+      /* jogos */
+    .full-board{
+        transform: scale(1.1);
+     
+    }
+    .game-board{
+       
+    
+    }
+    .game-board-position{
+        transform: scale(1.1);r
+    }
+
+}

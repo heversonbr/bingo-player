@@ -1,0 +1,2 @@
+sync_rasp.sh
+rsync_exclude_files.txt
